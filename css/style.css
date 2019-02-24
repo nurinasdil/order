@@ -65,8 +65,12 @@ a{
 		text-align: center;
 	}
 	
-	.reviews_text{
-		font-size: 22px;
+	.reviews{
+		display: none;
+	}
+	
+	.all_swiper.swiper-container{
+		overflow: hidden;
 	}
 	
 	.last_text{
@@ -122,8 +126,8 @@ a{
 		font-size: 14px;
 	}
 	
-	.reviews_text{
-		font-size: 1em;
+	.reviews{
+		display: none;
 	}
 	
 	.reviews_link.reviews_link_main{
