@@ -1,0 +1,29 @@
+.item{
+	padding: 38px 0;
+}
+
+.item_single{
+	border-bottom: 1px solid #e1e1e1;
+	padding: 15px 0;
+}
+
+.item_single:nth-child(4){
+	border:none;
+}
+.item_photo{
+	background-position: center center;
+	background-size: cover;
+	padding-right: 25px;
+}
+
+.item_paragraf{
+	font-size: 14px;
+}
+
+.item_link{
+	text-decoration: underline;
+}
+
+.item_link:hover{
+	text-decoration: none;
+}

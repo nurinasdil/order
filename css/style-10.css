@@ -1,0 +1,23 @@
+
+.project{
+	background: #fafafa;
+	padding: 20px 0;
+}
+
+.plus_text{
+	padding: 20px 0;
+}
+
+.project_paragraf{
+	color:#000000;
+}
+
+.project_item{
+	position: relative;
+	list-style: none;
+}
+
+.project_online.reviews_online{
+	left:-18px;
+	background: #214e9b;
+}

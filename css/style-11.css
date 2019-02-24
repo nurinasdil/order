@@ -1,0 +1,21 @@
+.plus_nav.project_nav{
+	line-height: 2;
+}
+
+.total{
+	padding-top:45px;
+	padding-bottom: 25px;
+	background: #fff4e9;
+	line-height: 3;
+}
+
+.total_paragraf{
+	font-size: 18px;
+	line-height: 1.3;
+	font-weight: 500;
+}
+
+.total_button.banner_button{
+	padding: 0 35px;
+	line-height: 2.3;
+}

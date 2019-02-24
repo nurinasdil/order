@@ -1,0 +1,30 @@
+.table{
+	margin-top: 25px;
+}
+
+.last_link{
+	color: #767676;
+    text-decoration: underline;
+	padding: 0 20px;
+}
+
+.last_link:hover{
+	color:#214e9b;
+	font-size: 1.5em;
+	text-decoration: none;
+}
+.table tbody+tbody {
+	border-top: 1px solid #e1e1e1;
+}
+
+.table tbody+tbody:first-child{
+	border-top: 0;
+}
+
+.last_answer{
+	    color: #767676;
+    font-size: 14px;
+    background: #fff4e9;
+	    padding: 5px 20px;
+    border-radius: 3px;
+}

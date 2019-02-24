@@ -1,0 +1,58 @@
+.answer{
+	background: #e9eef6;
+	padding: 10px 0;
+}
+
+.answer_part{
+	    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    padding-bottom: 70px;
+    grid-gap: 119px;
+}
+
+.answer_part:last-child{
+	padding-bottom: 0;
+}
+
+.answer_single{
+	background: #fff;
+	padding: 25px 45px;
+	margin: 30px 0;
+}
+
+.answer_basic{
+	font-size: 1.2em;
+    color: #214e9b;
+	padding-left: 20px;
+}
+
+.answer_between{
+	display: flex;
+	padding-bottom: 15px;
+}
+
+.answer_between img{
+	height: 32px;
+}
+.answer_down{
+	    border-top: 1px solid#e1e1e1;
+    padding-top: 10px;
+
+}
+
+.answer_write{
+	line-height: 1;
+	color:#214e9b;
+	display: inline;
+	cursor: pointer;
+
+}
+
+.answer_write:hover{
+	text-decoration:underline;
+}
+
+.reviews_online_women{
+	left: 0!important;
+}
+

@@ -1,0 +1,15 @@
+.feedback{
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.swiper-container.swiper3{
+	overflow: hidden;
+}
+
+.feedback_swiper.swiper-slide{
+	width: 360px!important;
+	height: 150px;
+	padding: 0 45px;
+	border-right: 1px solid#c5c5c5;
+}

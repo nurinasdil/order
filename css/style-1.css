@@ -1,0 +1,51 @@
+.logo{
+	padding: 10px 0;
+}
+
+.banner{
+	padding-top: 25px;
+	background: #d8dde3;
+}
+
+.banner_photo{
+	background-position: center center;
+	background-size: cover;
+}
+
+.banner_main{
+	line-height: 20px;
+}
+
+.banner_text{
+	font-size: 24px;
+	margin: 0;
+}
+
+.banner_paragraf{
+	color:#5e5e5e;
+}
+
+.banner_config{
+	font-size: 1em;
+}
+
+.banner_textarea{
+	width: 100%;
+    min-height: 100px;
+    border-radius: 1px;
+    border: none;
+	padding: 17px;
+	line-height: 1;
+	resize: none;
+	margin-bottom: 20px;
+}
+
+.banner_textarea textarea{
+	color:#8f8f8f;
+}
+
+.banner_button{
+	    background: #73ad58;
+    color: #ffffff;
+    padding: 5px 35px;
+}

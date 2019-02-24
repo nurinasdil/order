@@ -1,0 +1,276 @@
+body{
+	
+}
+
+.container{
+	width: 1000px;
+}
+
+h1,h2,h3{
+	font-size: 28px;
+    color: #000000;
+}
+
+.centered{
+	text-align: center;
+}
+
+a{
+	cursor: pointer;
+}
+
+.swiper-container{
+	overflow: visible;
+}
+
+.reviews_photo{
+	display: flex;
+}
+
+.reviews_span{
+	color:#5e5e5e;
+}
+
+.reviews_username{
+	position: relative;
+	padding-left: 1.5em;
+}
+
+.reviews_userlink{
+	    color: #cc3399;
+	display: block;
+	text-decoration: underline;
+}
+
+.reviews_online{
+	background: #4caf50;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+	.banner_main{
+		margin: 20px;
+	}
+	
+	.banner_photo{
+		text-align: center;
+	}
+	
+	.reviews_text{
+		font-size: 22px;
+	}
+	
+	.last_text{
+		text-align: center;
+	}
+	
+	.last_span.reviews_name_span{
+		font-size: 0.7em;
+	}
+	
+	.last_paragraf.women_write{
+		font-size: 0.8em;
+	}
+	
+	.answer_basic{
+		font-size: 1em;
+	}
+	
+	.item_card:last-child{
+		margin-top: 30px;
+	}
+	
+	.footer_single{
+		display: block;
+		line-height: 3;
+	}
+}
+
+@media (max-width: 767px) { 
+	
+	.banner_main{
+		margin-bottom: 15px;
+	}
+	
+	.banner_text{
+		font-size: 20px;
+	}
+	
+	.banner_paragraf{
+		font-size: 14px;
+	}
+	
+	.banner_config{
+		font-size: 14px;
+	}
+	
+	.banner_textarea{
+		font-size: 14px;
+	}
+	
+	.banner_button{
+		display: block;
+		font-size: 14px;
+	}
+	
+	.reviews_text{
+		font-size: 1em;
+	}
+	
+	.reviews_link.reviews_link_main{
+		font-size: 1em;
+	}
+	
+	.reviews_comment{
+		font-size: 14px;
+	}
+	
+	.reviews_link{
+		font-size: 14px;
+	}
+	
+	.women_text{
+		font-size: 20px;
+	}
+	
+	.reviews_userlink{
+		font-size: 14px;
+	}
+	
+	.reviews_span{
+		font-size: 14px;
+	}
+	
+	.women_paragraf{
+		font-size: 14px;
+	}
+	
+	.answer_text{
+		font-size: 22px;
+	}
+	
+	.answer_basic{
+		font-size: 1em;
+	}
+	
+	.answer_paragraf{
+		font-size: 14px;
+	}
+	
+	.answer_write{
+		font-size: 14px;
+	}
+	
+	.last_text{
+		font-size: 20px;
+		text-align: center;
+	}
+	
+	
+	.last_span.reviews_name_span{
+		font-size: 12px;
+	}
+	
+	.last_paragraf.women_write{
+		font-size: 14px;
+	}
+	
+	.last_answer{
+		background: #fff;
+		font-size: 12px;
+	}
+	
+	.item_card{
+		margin-top: 20px;
+	}
+	
+	.project_text{
+		font-size: 22px;
+	}
+	
+	.project_paragraf{
+		font-size: 14px;
+	}
+	
+	.project_item{
+		font-size: 14px;
+	}
+	
+	.plus_text{
+		font-size: 22px;
+		padding: 10px 0;
+	}
+	
+	.footer_single{
+		display: block;
+	}
+	
+	.footer_link.nav-link{
+		font-size: 9px;
+	}
+}
+
+@media (max-width: 480px) { 
+
+	.forum_paragraf{
+		font-size: 24px;
+	}
+	
+	.forum_span{
+		font-size: 14px;
+	}
+	
+	.project_paragraf{
+		font-size: 12px;
+	}
+	
+	.women_text{
+		text-align: center;
+	}
+	women_text.text2{
+		display: none;
+	}
+	
+	.women_write{
+		font-size: 14px;
+	}
+	
+	.women_pargraf{
+		font-size: 12px;
+	}
+	
+	.item_card{
+		display: flex;
+		justify-content: center;
+	}
+	
+	.answer_write{
+		font-size: 12px;
+	}
+	
+	.answer_paragraf{
+		font-size: 12px;
+	}
+	
+	.footer_nav.nav{
+		display: block;
+	}
+	
+	.footer_link.nav-link{
+		font-size: 14px;
+	}
+	
+	.footer_link.nav-link{
+		padding-left: 20px;
+	}
+
+}

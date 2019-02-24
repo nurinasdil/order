@@ -1,0 +1,36 @@
+.all{
+	background: #e9eef6;
+	padding-top: 40px;
+}
+
+.all_swiper.swiper-slide{
+   width: 163px!important;
+	height: 375px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 20px;
+	margin-right: 28px;
+	background: #fff;
+}
+
+.all_username.reviews_username{
+	padding-left: 12px;
+}
+
+.all_online.reviews_online{
+	left:0;
+}
+
+span.all.reviews_stars{
+	padding-right: 5px;
+}
+
+.all_star.reviews_star{
+	border-bottom: 1px solid #e1e1e1;
+	padding-bottom: 17px;
+}
+
+.all_link.reviews_link_down{
+	line-height: 4;
+}
