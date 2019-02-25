@@ -1,25 +1,28 @@
-
-.reviews_photo_women{
+.reviews_photo_women {
 	padding-bottom: 22px;
 }
 
-.women_single{
-	    display: flex;
-    justify-content: space-between;
+.women_single {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
 }
 
-.women_write{
-	color:#214e9b;
+.women_write {
+	color: #214e9b;
 	font-size: 1em;
 	line-height: 1;
 }
 
-.women_benefit{
+.women_benefit {
 	position: relative;
 	padding-left: 1.5em;
 }
 
-.reviews_online_women{
-	background:#214e9b!important; 
-	left:0;
+.reviews_online_women {
+	background: #214e9b !important;
+	left: 0;
 }
